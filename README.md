@@ -1,0 +1,2 @@
+# LabGuard-Advanced-Proctoring-Desktop-Application
+This Python-based desktop application enhances exam integrity through proctoring and cheating detection in computer-based assessments. It monitors keystrokes, active applications, file access, and clipboard activity using system-level event listeners and process monitoring APIs. Captured data is securely transmitted to a client server for analysis.
